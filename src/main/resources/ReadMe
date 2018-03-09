@@ -1,0 +1,22 @@
+
+
+Find the least interest rate --  find the least from the table
+
+Find the monthly repayment = loanAmount * interestRate /36 ??
+
+
+1000
+
+640 + 480 = 520 @7.5% and 480 @6.9%
+
+520 * 0.075 + 480 * 0.069 = (39 + 33.12)/12 =
+
+Bob,0.075,640
+Jane,0.069,480
+Fred,0.071,520
+Mary,0.104,170
+John,0.081,320
+Dave,0.074,140
+Angela,0.071,60
+
+find the total repayment = monthly repayment * 36
